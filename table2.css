@@ -1,0 +1,28 @@
+body,h1,table,th,td,thead
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+
+th, td {
+    border: 2px solid #333;
+    padding: 8px;
+    text-align: left;
+
+}
+
+thead {
+    background-color: blue;
+    font-weight: bold;
+}
