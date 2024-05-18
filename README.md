@@ -1,6 +1,6 @@
 # Styled Table Project
 
-This project consists of an HTML file (`table.html`) containing a simple table structure with sample content (names, ages, and occupations). The table is styled using CSS to include borders, padding, and a different style for the header row.
+This project consists of an HTML file (`table.html') containing a simple table structure with sample content (names, ages, and occupations). The table is styled using CSS to include borders, padding, and a different style for the header row.
 
 Instructions:
 
